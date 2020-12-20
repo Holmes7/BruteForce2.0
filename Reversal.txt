@@ -1,0 +1,3 @@
+strings {path_to_file}
+
+Run this and it will output some string. The flag is present in it.
