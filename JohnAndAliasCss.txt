@@ -1,0 +1,5 @@
+The flag is divided into three parts. Each of which is in a commit in the git repository. 
+
+git log
+
+Run the command to get all the commit history to find the flags.
