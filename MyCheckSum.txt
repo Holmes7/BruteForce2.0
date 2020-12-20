@@ -1,0 +1,3 @@
+Run 
+shasum {paht to file}
+This will generate a hash which is the flag
