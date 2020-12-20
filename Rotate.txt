@@ -1,0 +1,5 @@
+It's a caeser cipher. The fixed number of characters to shift is 4 to the left 
+e.g 
+E becomes A
+F becomes B
+D becomes Z
